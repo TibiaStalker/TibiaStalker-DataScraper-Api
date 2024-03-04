@@ -1,0 +1,6 @@
+@TibiaStalker.DataScraper_HostAddress = http://localhost:5094
+
+GET {{TibiaStalker.DataScraper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
